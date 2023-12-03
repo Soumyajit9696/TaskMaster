@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0, user-scalable=no">
+        <meta name="description" content="It is a beautifull looking, yet so simple To-Do app.">
+        <meta name="keywords" content="to-do, tasks, productivity, reminders">
+        <meta name="author" content="Soumyajit Das">
+        <title>To-Do List App</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="todo-app">
+                <h2>To-Do List <img src="images/icon.png"></h2>
+                <div class="row">
+                    <input type="text" id="input-box" placeholder="Add your text">
+                    <button onclick="addTask()">Add</button>
+                </div>
+                <ul id="list-container">
+                    <!-- <li class="checked">Task 1</li>
+                    <li>Task 2</li>
+                    <li>Task 3</li> -->
+                </ul>
+            </div>
+            <!-- <div class="author">
+                <h3>By Soumyajit Das</h3>
+                <p>After refreshing the browser the data will still be saved.</p>
+            </div> -->
+        </div>
+        
+        <script src="script.js"></script>
+    </body>
+</html>
