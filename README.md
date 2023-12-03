@@ -2,8 +2,8 @@
 ## Effortlessly organize your day with To-Do_List. Add tasks, set deadlines a beginner project.
 _PROJECT TODO LIST_ 
  *HTML*---*CSS*---*JAVASCRIPT*
- 
- [To-DO_app]https://soumyajit9696.github.io/To-Do_List/
+ <br>
+<h3>Live link--></h3>
 <a href="https://soumyajit9696.github.io/To-Do_List/">To-Do-List</a>
 Here is the preview:
 
